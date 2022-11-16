@@ -1,8 +1,8 @@
-# My 11th Project
+# Hosting Landing Page
 
 > i have learnt basics of HTML and CSS in this project.
 
-> it took me around 1 and half hours to complete this project.
+> it took me around 7 hours to complete this project.
 
 ### Tools Used:
 
@@ -18,4 +18,4 @@
 
 - > Sample output
 
-![Image](./11.PNG)
+![Hosting Landing Page](https://user-images.githubusercontent.com/67215417/202186761-987c2bce-11b2-4f86-89ee-06b4f7012db0.png)
